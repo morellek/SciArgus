@@ -116,3 +116,69 @@ Geoscientific Model Development
 Big Earth Data
 Bioacoustics
 National Bureau of Economic Research
+Animal Behaviour
+Animal Biotelemetry
+Animals
+Animals (Basel)
+Applied Animal Behaviour Science
+Behavioral Ecology
+Behavioral Ecology and Sociobiology
+BMC Veterinary Research
+Biometrics
+British Journal of Mathematical and Statistical Psychology
+Canadian Journal of Zoology
+Computers and Electronics in Agriculture
+Comparative Biochemistry and Physiology A: Molecular & Integrative Physiology
+EcoHealth
+Ecology
+Ecology Letters
+Ecology and Evolution
+Electronic Theses and Dissertations
+Ethology
+European Journal of Wildlife Research
+Frontiers in Ecology and Evolution
+Frontiers in Ecology and the Environment
+Frontiers in Genetics
+Frontiers in Microbiology
+Frontiers in Psychology
+Functional Ecology
+Geophysical Research Letters
+Integrative and Comparative Biology
+Journal of Animal Ecology
+Journal of Applied Ecology
+Journal of Evolutionary Biology
+Journal of Parasitology
+Journal of the Royal Society Interface
+Journal of Wildlife Management
+Journal of the American Statistical Association
+Methods in Ecology and Evolution
+Movement Ecology
+Mammalian Biology
+Nature
+Neuroscience and Biobehavioral Reviews
+Pathogens
+PeerJ
+Philosophical Transactions of the Royal Society B
+PLOS ONE
+Porcine Health Management
+Procedia Environmental Sciences
+Proceedings of the National Academy of Sciences
+Proceedings of the Royal Society B
+Science
+Scientific Reports
+Statistical Medicine
+Statistical Science
+The Veterinary Record
+Transactions in GIS
+Transboundary and Emerging Diseases
+Vaccines
+Veterinary and Animal Science
+Viruses
+bioRxiv
+Figshare
+Dryad
+National Academies Press
+University of Chicago Press
+Pergamon
+Blackwell
+OIE / World Organisation for Animal Health
